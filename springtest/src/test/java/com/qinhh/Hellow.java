@@ -7,4 +7,5 @@ package com.qinhh;
  */
 public class Hellow {
 
+    private int age;
 }
