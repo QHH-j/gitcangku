@@ -18,7 +18,7 @@ public class TestSpring {
         ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
         Person person =  ctx.getBean(Person.class);
         System.out.println(person);
-        System.out.println("aini");
+
         System.out.println("aini");
 
     }
