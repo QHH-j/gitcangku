@@ -19,6 +19,7 @@ public class TestSpring {
         Person person =  ctx.getBean(Person.class);
         System.out.println(person);
         System.out.println("aini");
+        System.out.println("aini");
 
     }
 
